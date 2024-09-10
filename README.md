@@ -1,13 +1,13 @@
 <img align="left"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi Everyone<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm   Mohith 🇮🇳</h1>
+<h1 align="center">Hi Everyone<img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px"> I'm Mohith</h1>
 <p align="left">
 
   
 
 
 <p align="center">
-  <a href="https://github.com/kishankumar1328 /readme-typing-svg">
+  <a href="https://github.com/Mohith2005 /readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!;Passionate+about+Data+Analyst;Data+Scientist+Enthusiast;Cloud+Engineer;Critical+Thinker;Open+to+Collaborations">
   </a>
 </p>
@@ -97,7 +97,7 @@
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/)
 
 ## Cloud
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/Mohith2005)](https://github.com/kishankumar1328)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&link=https://github.com/Mohith2005)](https://github.com/Mohith2005)
 
 <br><br><br>
 
@@ -137,13 +137,13 @@
 
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kishan-kumar-037175259/)
-[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:krss132005@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/tenacious_quail_34080)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kish130105?igshid=ZjF2NHRvb3BoNmpl)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/KishanKumar1329)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/kishankumar13281)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/kish1328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohith-m-s-05315525a/)
+[![Email](https://img.shields.io/badge/Email-%236A5ACD.svg?logo=gmail&logoColor=white&color=red&style=for-the-badge)](mailto:mohithmohith2005@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%238A2BE2.svg?logo=discord&logoColor=white&style=for-the-badge)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ms____mohith/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/Mohith282005)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%236A5ACD.svg?logo=hackerrank&logoColor=white&color=green&style=for-the-badge)](https://www.hackerrank.com/profile/mohithmohith2005)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%236A5ACD.svg?logo=kaggle&logoColor=white&color=blue&style=for-the-badge)](https://www.kaggle.com/mohithms)
 <br><br><br>
 
 
